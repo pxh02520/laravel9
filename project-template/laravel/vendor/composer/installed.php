@@ -148,6 +148,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'elibyy/tcpdf-laravel' => array(
+            'pretty_version' => '11.1.0',
+            'version' => '11.1.0.0',
+            'reference' => 'eddd210c1597b696abd0dd1401a2e21672ee415e',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../elibyy/tcpdf-laravel',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'fakerphp/faker' => array(
             'pretty_version' => 'v1.23.0',
             'version' => '1.23.0.0',
@@ -1429,6 +1438,15 @@
             'install_path' => __DIR__ . '/../symfony/yaml',
             'aliases' => array(),
             'dev_requirement' => true,
+        ),
+        'tecnickcom/tcpdf' => array(
+            'pretty_version' => '6.7.7',
+            'version' => '6.7.7.0',
+            'reference' => 'cfbc0028cc23f057f2baf9e73bdc238153c22086',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../tecnickcom/tcpdf',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'theseer/tokenizer' => array(
             'pretty_version' => '1.2.1',
